@@ -9,7 +9,7 @@ Key Features:
 
 ## Instalation
 
-There are 5 ways to install this plugin:
+There are 4 ways to install this plugin:
 
 - Open Package Manager and "Add package from git url..." using:
   
