@@ -1,7 +1,7 @@
 {
   "name": "com.quasi.ioshapticfeedback",
   "displayName": "Native iOS Haptic Feedback",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "documentationUrl": "https://github.com/januarelsan/Native-iOS-HapticFeedback-Unity/blob/main/README.md",
   "changelogUrl": "https://github.com/januarelsan/Native-iOS-HapticFeedback-Unity/releases",
   "licensesUrl": "https://github.com/januarelsan/Native-iOS-HapticFeedback-Unity/blob/main/LICENSE",
